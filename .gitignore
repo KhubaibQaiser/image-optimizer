@@ -1,0 +1,11 @@
+# Start Generation Here
+node_modules/
+dist/
+.env
+*.log
+*.tmp
+.DS_Store
+coverage/
+build/
+public/
+# End Generation Here
